@@ -4,4 +4,4 @@ Reposotório do Projeto Meme Generator, mais um projeto realizado durante minha 
 ### Demonstração do Projeto:
 <img src="meme-generator.gif" alt="Gif do Projeto"></img>
 
-### Link para acessar o projeto: https://jeancarlos-sc.github.io/projetos/meme-generator/
+### Link para acessar o projeto: https://jeancarlos-sc.github.io/Project-Meme-Generator
